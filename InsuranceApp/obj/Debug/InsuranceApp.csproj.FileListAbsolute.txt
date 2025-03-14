@@ -1,0 +1,12 @@
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\bin\Debug\InsuranceApp.exe.config
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\bin\Debug\InsuranceApp.exe
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\bin\Debug\InsuranceApp.pdb
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\obj\Debug\InsuranceApp.csproj.AssemblyReference.cache
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\obj\Debug\InsuranceApp.csproj.CoreCompileInputs.cache
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\obj\Debug\InsuranceApp.exe
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\obj\Debug\InsuranceApp.pdb
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\bin\Debug\InsuranceBO_Lib.dll
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\bin\Debug\InsuranceBO_Lib.pdb
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\obj\Debug\Insuranc.AE1F8265.Up2Date
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\bin\Debug\InsuranceDA_Lib.dll
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceApp\bin\Debug\InsuranceDA_Lib.pdb
