@@ -1,0 +1,9 @@
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\obj\Debug\InsuranceBO_Lib.csproj.AssemblyReference.cache
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\obj\Debug\InsuranceBO_Lib.csproj.CoreCompileInputs.cache
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\bin\Debug\InsuranceBO_Lib.dll
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\bin\Debug\InsuranceBO_Lib.pdb
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\bin\Debug\InsuranceDA_Lib.dll
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\bin\Debug\InsuranceDA_Lib.pdb
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\obj\Debug\Insuranc.4EB6A82D.Up2Date
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\obj\Debug\InsuranceBO_Lib.dll
+C:\Users\2387527\source\repos\InsuranceBO_Lib\InsuranceBO_Lib\obj\Debug\InsuranceBO_Lib.pdb
